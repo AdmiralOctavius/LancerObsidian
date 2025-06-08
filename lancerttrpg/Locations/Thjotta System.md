@@ -1,0 +1,1 @@
+Thjotta solar system in the [[Elis Eta Sector]]
