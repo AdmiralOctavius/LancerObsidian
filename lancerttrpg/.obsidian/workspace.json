@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Resources/Token Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Landing Page"
+              "title": "Token Resources"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Locations Database.md",
+                "file": "Sentai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locations Database"
+              "title": "Sentai"
             }
           }
         ],
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46e6aa998cabc1ff",
@@ -316,10 +317,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b43794aa9e4e526",
+  "active": "35949f819b1feae8",
   "lastOpenFiles": [
+    "Player Notes/Player Characters.md",
+    "Sentai.md",
+    "Session Notes/Session 1.md",
+    "Resources/Token Resources.md",
     "Locations/Locations Database.md",
+    "Resources/Resources Page.md",
     "Landing Page.md",
+    "Balancing Combat.md",
+    "Combat Design.md",
+    "Characters/Character Roster.md",
+    "Natalie Sato.md",
+    "Resources/Name Generators.md",
+    "Characters/Suzume Bischov.md",
+    "Characters/Kyo Yamada.md",
     "Organizations/Leng Defense Corps.md",
     "Resources",
     "Session Notes",
@@ -327,32 +340,21 @@
     "Characters",
     "Organizations",
     "Locations",
-    "Characters/Character Roster.md",
     "Organizations/Organization Roster.md",
     "Characters/First Batch Character Gen.md",
-    "Characters/Kyo Yamada.md",
     "Characters/Hai Lu.md",
     "Characters/Blake Finley.md",
-    "Characters/Suzume Bischov.md",
     "Characters/Lily.md",
     "Locations/Cerruti.md",
     "Locations/Thjotta System.md",
     "Locations/Elis Eta Sector.md",
     "Locations/elisEtaSector.pdf",
-    "Resources/Name Generators.md",
     "Organizations/Nebula's Haze.md",
     "Locations/Mild Marrow.md",
     "Organizations/Shining Steel Merc Comp.md",
-    "Player Notes/Player Characters.md",
-    "orgTemplates/Lazy GM Campaign Template/Lazy GM templates.md",
-    "Organizations/Support Corps INC.md",
-    "orgTemplates/Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session notes.md",
     "orgTemplates/Lazy GM Campaign Template/Session Notes",
     "orgTemplates/Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
     "orgTemplates/Lazy GM Campaign Template/Locations/Attachments",
-    "orgTemplates/Lazy GM Campaign Template/Locations/Example Location.md",
     "orgTemplates/Lazy GM Campaign Template/Locations",
     "orgTemplates/Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png",
     "orgTemplates/obsidian-dm-templates-main/session-notes-screenshot.png",

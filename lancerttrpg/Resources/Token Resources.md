@@ -34,3 +34,6 @@ Map Assets
 Portrait Assets
 - [Huge list of character creator resources](https://www.reddit.com/r/worldbuilding/comments/8e1r26/i_made_a_list_of_all_those_character_creator_games/) Note: lots of these are flash
 - Picrew: more evil characters? [https://picrew.me/image_maker/268253](https://picrew.me/image_maker/268253)
+
+Physical builds:
+Lego Builds: https://mobileframezero.fandom.com/wiki/Builds

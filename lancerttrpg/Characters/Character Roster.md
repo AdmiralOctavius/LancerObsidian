@@ -6,7 +6,7 @@
 | [[Blake Finley]]   | [[Nebula's Haze]]           | #Villain             |
 | [[Hai Lu]]         | [[Leng Defense Corps]]      | #Hero                |
 | [[Kyo Yamada]]     | [[Support Corps INC]]       | #Neutral             |
-|                    |                             |                      |
+| [[Natalie Sato]]   | [[Shining Steel Merc Comp]] | #Hero                |
 |                    |                             |                      |
 
 
