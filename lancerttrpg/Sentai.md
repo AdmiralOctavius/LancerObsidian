@@ -27,9 +27,9 @@ Notes: Watched old earth vault media of sentai shows and gundam stuff, thinks th
 
 ## Talents
 
-#### -"[[Duelist]]"
-#### -"[[Juggernaut]]
-#### -"[[Brawler]]"
+#### - :CoDUELIST: "[[Duelist]]"
+#### - :CoJUGGERNAUT: "[[Juggernaut]]
+#### - :CoBRAWLER: "[[Brawler]]"
 
 # Mecha Frames
 

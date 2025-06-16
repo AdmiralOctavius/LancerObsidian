@@ -7,6 +7,8 @@ This list is for various VTT token resources.
 - [Token status icons](https://drive.google.com/drive/folders/1bY1GPvCP3jNajtXSElm40VM_REH5eQ6i)
 - [Cones for roll20](https://drive.google.com/drive/folders/1ggVFu9gf6epfJ9JtVXwrNV04M_N2VDHh)
 - [EXCELLENT Tokens for both horizontal and vertical hexes](https://drive.google.com/drive/folders/1q-e9yqcXGT_PNe4-kU3XB1lB_AtQQ_gD)
+- Generic Tokens: https://drive.google.com/drive/folders/1sX8EWb6lTsi4FoPPRf_nyikDxmwHNb3o
+- Tokens for Roll20: https://drive.google.com/drive/folders/1bY1GPvCP3jNajtXSElm40VM_REH5eQ6i
 
 Map Assets
 
@@ -37,3 +39,5 @@ Portrait Assets
 
 Physical builds:
 Lego Builds: https://mobileframezero.fandom.com/wiki/Builds
+
+Book art: https://drive.google.com/drive/folders/1q9ww2w3jydyCq_hnVKChlmESI1XPLpYA
