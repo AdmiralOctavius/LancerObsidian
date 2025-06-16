@@ -6,6 +6,7 @@
       {
         "id": "52f41f7c6095c5e1",
         "type": "tabs",
+        "dimension": 41.61392405063291,
         "children": [
           {
             "id": "614c39a32eb8e4e1",
@@ -109,6 +110,7 @@
       {
         "id": "af121c18decd2b0a",
         "type": "tabs",
+        "dimension": 58.38607594936709,
         "children": [
           {
             "id": "964086dc135f30ca",
@@ -126,12 +128,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentai.md",
+                "file": "5000 Mach Missle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sentai"
+              "title": "5000 Mach Missle"
             }
           }
         ],
@@ -167,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Unique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +190,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -299,8 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,16 +321,20 @@
   },
   "active": "35949f819b1feae8",
   "lastOpenFiles": [
-    "Player Notes/Player Characters.md",
     "Sentai.md",
-    "Session Notes/Session 1.md",
+    "5000 Mach Missle.md",
+    "Landing Page.md",
+    "Characters/Character Roster.md",
+    "Characters/Blake Finley.md",
+    "Organizations/Shining Steel Merc Comp.md",
+    "Titanomancy Mesh.md",
     "Resources/Token Resources.md",
+    "Player Notes/Player Characters.md",
+    "Session Notes/Session 1.md",
     "Locations/Locations Database.md",
     "Resources/Resources Page.md",
-    "Landing Page.md",
     "Balancing Combat.md",
     "Combat Design.md",
-    "Characters/Character Roster.md",
     "Natalie Sato.md",
     "Resources/Name Generators.md",
     "Characters/Suzume Bischov.md",
@@ -343,15 +349,11 @@
     "Organizations/Organization Roster.md",
     "Characters/First Batch Character Gen.md",
     "Characters/Hai Lu.md",
-    "Characters/Blake Finley.md",
     "Characters/Lily.md",
     "Locations/Cerruti.md",
     "Locations/Thjotta System.md",
     "Locations/Elis Eta Sector.md",
     "Locations/elisEtaSector.pdf",
-    "Organizations/Nebula's Haze.md",
-    "Locations/Mild Marrow.md",
-    "Organizations/Shining Steel Merc Comp.md",
     "orgTemplates/Lazy GM Campaign Template/Session Notes",
     "orgTemplates/Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
     "orgTemplates/Lazy GM Campaign Template/Locations/Attachments",

@@ -16,3 +16,23 @@ Notes: Watched old earth vault media of sentai shows and gundam stuff, thinks th
 + Stay Cool (+2)
 + Take Control (+2)
 
+# Mech Skills
+#### -Hull 4
+#### -Agility 0
+#### -Systems 0
+#### -Engineering 1
+
+## Core Bonuses
+### "[[Titanomancy Mesh]]"
+
+## Talents
+
+#### -"[[Duelist]]"
+#### -"[[Juggernaut]]
+#### -"[[Brawler]]"
+
+# Mecha Frames
+
+## [[5000 Mach Missle]]
+
+
