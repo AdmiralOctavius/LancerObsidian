@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/Session Notes/Swords Above Stars Session Zero notes.md",
+                "file": "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swords Above Stars Session Zero notes"
+              "title": "Bumpy Landing - Episode 1"
             }
           },
           {
@@ -69,8 +69,7 @@
               "title": "Name Generators"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,6 +237,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -251,12 +251,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86e29304f89a2621",
+  "active": "ffa40212951df933",
   "lastOpenFiles": [
+    "SwordsAboveStars/Session List.md",
     "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
-    "Session Notes/Session notes.md",
     "Session Notes/Session 1.md",
     "SwordsAboveStars/Swords Above Stars Master Notes.md",
+    "SwordsAboveStars/Main characters.md",
+    "SwordsAboveStars/Player Characters/Emma Round.md",
+    "SwordsAboveStars/Player Characters/Scope.md",
+    "SwordsAboveStars/Player Characters/WASTE.md",
+    "SwordsAboveStars/Session Notes/Swords Above Stars Session Zero notes.md",
+    "Balancing Combat.md",
+    "Session Notes/Session notes.md",
     "SwordsAboveStars/NPCs/Generating Characters.md",
     "SwordsAboveStars/Session Notes",
     "SwordsAboveStars/World Details.md",
@@ -265,11 +272,10 @@
     "SwordsAboveStars/Locations",
     "SwordsAboveStars/Player Characters",
     "SwordsAboveStars/NPCs",
-    "SwordsAboveStars/NPCs/Npcs list.md",
+    "SwordsAboveStars/Npcs list.md",
     "Characters/Natalie Sato.md",
     "Landing Page.md",
     "Combat Design.md",
-    "Balancing Combat.md",
     "Player Notes/5000 Mach Missle.md",
     "2025-10-06.md",
     "SwordsAboveStars/images/3537226616.gif",
@@ -280,19 +286,13 @@
     "SwordsAboveStars/images/水.jpg",
     "Resources/Name Generators.md",
     "SwordsAboveStars/images/wp5317061.jpg",
-    "SwordsAboveStars/Session Notes/Swords Above Stars Session Zero notes.md",
     "Locations/elisEtaSector.pdf",
     "Characters/Suzume Bischov.md",
     "Resources/Token Resources.md",
     "Organizations/Nebula's Haze.md",
     "Organizations/Organization Roster.md",
-    "Locations/Mild Marrow.md",
     "Untitled.canvas",
     "SwordsAboveStars",
-    "Player Notes/Sentai.md",
-    "Characters/Character Roster.md",
-    "Characters/Blake Finley.md",
-    "Organizations/Shining Steel Merc Comp.md",
     "Resources",
     "Session Notes",
     "Player Notes",

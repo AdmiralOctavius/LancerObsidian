@@ -1,6 +1,6 @@
 
 
 [[World Details]] 
-[[Main chracters]]
+[[Main characters]]
 [[Npcs list]]
 [[Session List]] 
