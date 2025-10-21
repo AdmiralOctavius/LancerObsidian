@@ -20,53 +20,40 @@
               "icon": "lucide-file",
               "title": "Generating Characters"
             }
+          },
+          {
+            "id": "9c81d4a618394dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/Swords Above Stars Master Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Swords Above Stars Master Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "94009bc9f774be1c",
         "type": "tabs",
         "children": [
           {
-            "id": "ffa40212951df933",
+            "id": "c9ec99072c9b1067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
+                "file": "SwordsAboveStars/GM Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bumpy Landing - Episode 1"
-            }
-          },
-          {
-            "id": "86e29304f89a2621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Balancing Combat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Balancing Combat"
-            }
-          },
-          {
-            "id": "917d6f1a174ea2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Name Generators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Name Generators"
+              "title": "GM Todo"
             }
           }
         ]
@@ -126,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "46e6aa998cabc1ff",
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page.md",
+                "file": "SwordsAboveStars/Swords Above Stars Master Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Landing Page"
+              "title": "Backlinks for Swords Above Stars Master Notes"
             }
           },
           {
@@ -161,11 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SwordsAboveStars/Swords Above Stars Master Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Swords Above Stars Master Notes"
             }
           },
           {
@@ -189,23 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Balancing Combat.md",
+                "file": "SwordsAboveStars/Swords Above Stars Master Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Balancing Combat"
-            }
-          },
-          {
-            "id": "4ff21d7dabf763b4",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "title": "Outline of Swords Above Stars Master Notes"
             }
           },
           {
@@ -233,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,54 +229,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffa40212951df933",
+  "active": "9c81d4a618394dab",
   "lastOpenFiles": [
-    "SwordsAboveStars/Session List.md",
+    "SwordsAboveStars/Locations/Emberg City.md",
+    "SwordsAboveStars/GM Todo.md",
+    "Untitled.canvas",
     "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
-    "Session Notes/Session 1.md",
+    "SwordsAboveStars/NPCs/Jade Sharp.md",
+    "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
+    "SwordsAboveStars/Locations/Helga.md",
+    "SentaiStarlight",
+    "SwordsAboveStars/NPCs/Zircon Kirov.md",
+    "SwordsAboveStars/NPCs/Jeanne Baret Platov.md",
+    "SwordsAboveStars/NPCs/Leighton Thomas.md",
+    "SwordsAboveStars/images/Pasted image 20251020185103.png",
+    "SwordsAboveStars/NPCs/Yuan Liú.md",
+    "SwordsAboveStars/Organizations",
+    "SwordsAboveStars/NPCs/Radoslav Efimov.md",
+    "Balancing Combat.md",
+    "SwordsAboveStars/NPCs/Adriel Coleman.md",
+    "SwordsAboveStars/Session List.md",
+    "SwordsAboveStars/NPCs/Generating Characters.md",
+    "Resources/Name Generators.md",
+    "SwordsAboveStars/World building.md",
+    "SwordsAboveStars/World Details.md",
+    "SwordsAboveStars/Player Characters/Lancelot.md",
     "SwordsAboveStars/Swords Above Stars Master Notes.md",
+    "Session Notes/Session 1.md",
     "SwordsAboveStars/Main characters.md",
-    "SwordsAboveStars/Player Characters/Emma Round.md",
     "SwordsAboveStars/Player Characters/Scope.md",
     "SwordsAboveStars/Player Characters/WASTE.md",
     "SwordsAboveStars/Session Notes/Swords Above Stars Session Zero notes.md",
-    "Balancing Combat.md",
-    "Session Notes/Session notes.md",
-    "SwordsAboveStars/NPCs/Generating Characters.md",
     "SwordsAboveStars/Session Notes",
-    "SwordsAboveStars/World Details.md",
-    "SwordsAboveStars/World building.md",
-    "SwordsAboveStars/Locations/Helga.md",
     "SwordsAboveStars/Locations",
     "SwordsAboveStars/Player Characters",
     "SwordsAboveStars/NPCs",
-    "SwordsAboveStars/Npcs list.md",
-    "Characters/Natalie Sato.md",
-    "Landing Page.md",
-    "Combat Design.md",
-    "Player Notes/5000 Mach Missle.md",
-    "2025-10-06.md",
     "SwordsAboveStars/images/3537226616.gif",
     "SwordsAboveStars/images/nico-hintelmann-211028-00100.jpg",
     "SwordsAboveStars/images/adrian-mihai-marchidan-coastal-city-2922.jpg",
     "SwordsAboveStars/images/wp5317058-957471326.jpg",
     "SwordsAboveStars/images",
     "SwordsAboveStars/images/水.jpg",
-    "Resources/Name Generators.md",
     "SwordsAboveStars/images/wp5317061.jpg",
-    "Locations/elisEtaSector.pdf",
-    "Characters/Suzume Bischov.md",
-    "Resources/Token Resources.md",
-    "Organizations/Nebula's Haze.md",
-    "Organizations/Organization Roster.md",
-    "Untitled.canvas",
+    "SentaiStarlight/Locations/elisEtaSector.pdf",
     "SwordsAboveStars",
     "Resources",
-    "Session Notes",
-    "Player Notes",
     "orgTemplates/Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
     "orgTemplates/Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png",
-    "orgTemplates/obsidian-dm-templates-main/session-notes-screenshot.png",
-    "orgTemplates/obsidian-dm-templates-main/npc-screenshot.png"
+    "orgTemplates/obsidian-dm-templates-main/session-notes-screenshot.png"
   ]
 }

@@ -1,0 +1,2 @@
+- [ ] Make hexmap for next session
+- [ ] Create combat scenarios
