@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/GM Todo.md",
+                "file": "Resources/Name Generators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GM Todo"
+              "title": "Name Generators"
             }
           }
         ]
@@ -205,6 +205,16 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "efb221d5644b8beb",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
         "currentTab": 4
@@ -229,14 +239,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c81d4a618394dab",
+  "active": "c9ec99072c9b1067",
   "lastOpenFiles": [
-    "SwordsAboveStars/Locations/Emberg City.md",
+    "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
+    "SwordsAboveStars/Swords Above Stars Master Notes.md",
+    "SwordsAboveStars/Player Characters/WASTE.md",
     "SwordsAboveStars/GM Todo.md",
+    "SwordsAboveStars/Locations/Emberg City.md",
     "Untitled.canvas",
     "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
     "SwordsAboveStars/NPCs/Jade Sharp.md",
-    "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
     "SwordsAboveStars/Locations/Helga.md",
     "SentaiStarlight",
     "SwordsAboveStars/NPCs/Zircon Kirov.md",
@@ -254,11 +266,9 @@
     "SwordsAboveStars/World building.md",
     "SwordsAboveStars/World Details.md",
     "SwordsAboveStars/Player Characters/Lancelot.md",
-    "SwordsAboveStars/Swords Above Stars Master Notes.md",
     "Session Notes/Session 1.md",
     "SwordsAboveStars/Main characters.md",
     "SwordsAboveStars/Player Characters/Scope.md",
-    "SwordsAboveStars/Player Characters/WASTE.md",
     "SwordsAboveStars/Session Notes/Swords Above Stars Session Zero notes.md",
     "SwordsAboveStars/Session Notes",
     "SwordsAboveStars/Locations",
