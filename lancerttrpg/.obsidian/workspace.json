@@ -27,16 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/Swords Above Stars Master Notes.md",
+                "file": "SwordsAboveStars/SAS Plot Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swords Above Stars Master Notes"
+              "title": "SAS Plot Notes"
+            }
+          },
+          {
+            "id": "0427068749c7a598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/GM Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GM Todo"
+            }
+          },
+          {
+            "id": "52355e24faad8768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bumpy Landing - Episode 1"
+            }
+          },
+          {
+            "id": "55272d8be582056f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Zircon Kirov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zircon Kirov"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "94009bc9f774be1c",
@@ -55,8 +97,51 @@
               "icon": "lucide-file",
               "title": "Name Generators"
             }
+          },
+          {
+            "id": "70dbc17bbdce00bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/World building.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "World building"
+            }
+          },
+          {
+            "id": "80f57fb7578431d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vlasi Aminov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vlasi Aminov"
+            }
+          },
+          {
+            "id": "abecd43a6bd08525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Zircon Kirov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zircon Kirov"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,37 +324,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9ec99072c9b1067",
+  "active": "52355e24faad8768",
   "lastOpenFiles": [
+    "SwordsAboveStars/NPCs/Zircon Kirov.md",
     "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
+    "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
+    "SwordsAboveStars/GM Todo.md",
+    "SwordsAboveStars/SAS Plot Notes.md",
+    "Ladiza.md",
+    "Resources/Name Generators.md",
+    "SwordsAboveStars/NPCs/Generating Characters.md",
+    "Devora Aminov.md",
+    "Vlasi Aminov.md",
+    "SwordsAboveStars/NPCs/Radoslav Efimov.md",
+    "SwordsAboveStars/World building.md",
+    "SwordsAboveStars/World Details.md",
     "SwordsAboveStars/Swords Above Stars Master Notes.md",
     "SwordsAboveStars/Player Characters/WASTE.md",
-    "SwordsAboveStars/GM Todo.md",
     "SwordsAboveStars/Locations/Emberg City.md",
     "Untitled.canvas",
-    "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
     "SwordsAboveStars/NPCs/Jade Sharp.md",
     "SwordsAboveStars/Locations/Helga.md",
     "SentaiStarlight",
-    "SwordsAboveStars/NPCs/Zircon Kirov.md",
     "SwordsAboveStars/NPCs/Jeanne Baret Platov.md",
     "SwordsAboveStars/NPCs/Leighton Thomas.md",
     "SwordsAboveStars/images/Pasted image 20251020185103.png",
     "SwordsAboveStars/NPCs/Yuan Liú.md",
     "SwordsAboveStars/Organizations",
-    "SwordsAboveStars/NPCs/Radoslav Efimov.md",
     "Balancing Combat.md",
     "SwordsAboveStars/NPCs/Adriel Coleman.md",
     "SwordsAboveStars/Session List.md",
-    "SwordsAboveStars/NPCs/Generating Characters.md",
-    "Resources/Name Generators.md",
-    "SwordsAboveStars/World building.md",
-    "SwordsAboveStars/World Details.md",
     "SwordsAboveStars/Player Characters/Lancelot.md",
     "Session Notes/Session 1.md",
-    "SwordsAboveStars/Main characters.md",
-    "SwordsAboveStars/Player Characters/Scope.md",
-    "SwordsAboveStars/Session Notes/Swords Above Stars Session Zero notes.md",
     "SwordsAboveStars/Session Notes",
     "SwordsAboveStars/Locations",
     "SwordsAboveStars/Player Characters",

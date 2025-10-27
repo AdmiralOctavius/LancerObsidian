@@ -1,2 +1,3 @@
 - [ ] Make hexmap for next session
 - [ ] Create combat scenarios
+- [ ] Put down more details for BBEG and immediate city
