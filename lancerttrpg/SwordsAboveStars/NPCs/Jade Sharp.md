@@ -14,3 +14,4 @@ Contracts medical services from [[Radoslav Efimov]]
 Shares common languages with wandering Ronin [[Kenji Hasegawa]]
 
 #Rebellion
+![[SFCP 1-100.jpg]]

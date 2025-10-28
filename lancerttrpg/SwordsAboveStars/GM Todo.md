@@ -1,3 +1,5 @@
 - [ ] Make hexmap for next session
-- [ ] Create combat scenarios
-- [ ] Put down more details for BBEG and immediate city
+- [x] Create combat scenarios
+- [x] Put down more details for BBEG and immediate city
+- [ ] Finish bolstering npc rosters for subsequent combats
+- [ ] 

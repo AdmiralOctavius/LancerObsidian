@@ -64,6 +64,48 @@
             }
           },
           {
+            "id": "9af45eb5f38dbee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/Locations/Emberg City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emberg City"
+            }
+          },
+          {
+            "id": "23936258f1b56464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Roll20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roll20"
+            }
+          },
+          {
+            "id": "64c57fe4f1342acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Yuan Liú.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yuan Liú"
+            }
+          },
+          {
             "id": "55272d8be582056f",
             "type": "leaf",
             "state": {
@@ -139,9 +181,121 @@
               "icon": "lucide-file",
               "title": "Zircon Kirov"
             }
+          },
+          {
+            "id": "f8061ecd6d0594e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/Locations/Emberg City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emberg City"
+            }
+          },
+          {
+            "id": "6ca1afed904beb74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Jade Sharp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jade Sharp"
+            }
+          },
+          {
+            "id": "f3101b03e726a8c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Adriel Coleman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adriel Coleman"
+            }
+          },
+          {
+            "id": "2a590c350677e0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Yuan Liú.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yuan Liú"
+            }
+          },
+          {
+            "id": "185abe7c87200e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Radoslav Efimov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Radoslav Efimov"
+            }
+          },
+          {
+            "id": "927c7f3d2addf90e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Zircon Kirov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zircon Kirov"
+            }
+          },
+          {
+            "id": "aed7e017d9fa6db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Leighton Thomas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leighton Thomas"
+            }
+          },
+          {
+            "id": "a3c42047196264c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Music List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Music List"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -306,7 +460,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,36 +480,40 @@
   },
   "active": "52355e24faad8768",
   "lastOpenFiles": [
-    "SwordsAboveStars/NPCs/Zircon Kirov.md",
-    "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
+    "SwordsAboveStars/NPCs/Jade Sharp.md",
     "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
-    "SwordsAboveStars/GM Todo.md",
-    "SwordsAboveStars/SAS Plot Notes.md",
-    "Ladiza.md",
-    "Resources/Name Generators.md",
-    "SwordsAboveStars/NPCs/Generating Characters.md",
-    "Devora Aminov.md",
-    "Vlasi Aminov.md",
+    "SwordsAboveStars/NPCs/Adriel Coleman.md",
     "SwordsAboveStars/NPCs/Radoslav Efimov.md",
+    "SwordsAboveStars/NPCs/Leighton Thomas.md",
+    "SwordsAboveStars/NPCs/Yuan Liú.md",
+    "SwordsAboveStars/NPCs/Generating Characters.md",
+    "SFCP 1-20.jpg",
     "SwordsAboveStars/World building.md",
+    "Vlasi Aminov.md",
+    "SFCP 1-31.jpg",
+    "SwordsAboveStars/NPCs/Zircon Kirov.md",
+    "SFCP 1-92.jpg",
+    "SFCP 1-100.jpg",
+    "SFCP 1-27.jpg",
+    "Resources/Name Generators.md",
+    "SwordsAboveStars/Locations/Emberg City.md",
+    "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
+    "Resources/Music List.md",
+    "Resources/Roll20.md",
+    "SwordsAboveStars/General questions abt Lancer.md",
+    "SwordsAboveStars/SAS Plot Notes.md",
+    "SwordsAboveStars/GM Todo.md",
+    "Ladiza.md",
+    "Devora Aminov.md",
     "SwordsAboveStars/World Details.md",
     "SwordsAboveStars/Swords Above Stars Master Notes.md",
     "SwordsAboveStars/Player Characters/WASTE.md",
-    "SwordsAboveStars/Locations/Emberg City.md",
     "Untitled.canvas",
-    "SwordsAboveStars/NPCs/Jade Sharp.md",
     "SwordsAboveStars/Locations/Helga.md",
     "SentaiStarlight",
     "SwordsAboveStars/NPCs/Jeanne Baret Platov.md",
-    "SwordsAboveStars/NPCs/Leighton Thomas.md",
     "SwordsAboveStars/images/Pasted image 20251020185103.png",
-    "SwordsAboveStars/NPCs/Yuan Liú.md",
     "SwordsAboveStars/Organizations",
-    "Balancing Combat.md",
-    "SwordsAboveStars/NPCs/Adriel Coleman.md",
-    "SwordsAboveStars/Session List.md",
-    "SwordsAboveStars/Player Characters/Lancelot.md",
-    "Session Notes/Session 1.md",
     "SwordsAboveStars/Session Notes",
     "SwordsAboveStars/Locations",
     "SwordsAboveStars/Player Characters",
@@ -365,13 +523,8 @@
     "SwordsAboveStars/images/adrian-mihai-marchidan-coastal-city-2922.jpg",
     "SwordsAboveStars/images/wp5317058-957471326.jpg",
     "SwordsAboveStars/images",
-    "SwordsAboveStars/images/水.jpg",
-    "SwordsAboveStars/images/wp5317061.jpg",
     "SentaiStarlight/Locations/elisEtaSector.pdf",
     "SwordsAboveStars",
-    "Resources",
-    "orgTemplates/Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
-    "orgTemplates/Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png",
-    "orgTemplates/obsidian-dm-templates-main/session-notes-screenshot.png"
+    "Resources"
   ]
 }
