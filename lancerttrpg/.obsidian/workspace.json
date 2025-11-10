@@ -8,49 +8,83 @@
         "type": "tabs",
         "children": [
           {
-            "id": "964086dc135f30ca",
+            "id": "17239825f27cf754",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/NPCs/Generating Characters.md",
+                "file": "SwordsAboveStars/Session Notes/Miles to Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generating Characters"
+              "title": "Miles to Go"
             }
           },
           {
-            "id": "9c81d4a618394dab",
+            "id": "863410ef842e69a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/SAS Plot Notes.md",
+                "file": "Brayden Medina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAS Plot Notes"
+              "title": "Brayden Medina"
             }
           },
           {
-            "id": "0427068749c7a598",
+            "id": "64ed8386f4412267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/GM Todo.md",
+                "file": "Mila Bennett.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GM Todo"
+              "title": "Mila Bennett"
+            }
+          },
+          {
+            "id": "0d70ecd852a894a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nikodim Govorov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nikodim Govorov"
             }
           },
           {
             "id": "52355e24faad8768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/Session Notes/Miles to Go.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miles to Go"
+            }
+          }
+        ]
+      },
+      {
+        "id": "94009bc9f774be1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a46c43a89e0f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,153 +95,6 @@
               },
               "icon": "lucide-file",
               "title": "Bumpy Landing - Episode 1"
-            }
-          },
-          {
-            "id": "9af45eb5f38dbee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/Locations/Emberg City.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emberg City"
-            }
-          },
-          {
-            "id": "23936258f1b56464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Roll20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roll20"
-            }
-          },
-          {
-            "id": "64c57fe4f1342acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/NPCs/Yuan Liú.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Yuan Liú"
-            }
-          },
-          {
-            "id": "55272d8be582056f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/NPCs/Zircon Kirov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zircon Kirov"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "94009bc9f774be1c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9ec99072c9b1067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Name Generators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Name Generators"
-            }
-          },
-          {
-            "id": "70dbc17bbdce00bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/World building.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "World building"
-            }
-          },
-          {
-            "id": "80f57fb7578431d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vlasi Aminov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vlasi Aminov"
-            }
-          },
-          {
-            "id": "abecd43a6bd08525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/NPCs/Zircon Kirov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zircon Kirov"
-            }
-          },
-          {
-            "id": "f8061ecd6d0594e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/Locations/Emberg City.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emberg City"
-            }
-          },
-          {
-            "id": "6ca1afed904beb74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/NPCs/Jade Sharp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jade Sharp"
             }
           },
           {
@@ -295,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -460,7 +347,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -478,40 +366,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52355e24faad8768",
+  "active": "17239825f27cf754",
   "lastOpenFiles": [
-    "SwordsAboveStars/NPCs/Jade Sharp.md",
+    "Nikodim Govorov.md",
+    "Resources/Music List.md",
+    "SwordsAboveStars/Session Notes/Miles to Go.md",
+    "Mila Bennett.md",
+    "Brayden Medina.md",
     "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
-    "SwordsAboveStars/NPCs/Adriel Coleman.md",
-    "SwordsAboveStars/NPCs/Radoslav Efimov.md",
-    "SwordsAboveStars/NPCs/Leighton Thomas.md",
-    "SwordsAboveStars/NPCs/Yuan Liú.md",
-    "SwordsAboveStars/NPCs/Generating Characters.md",
-    "SFCP 1-20.jpg",
-    "SwordsAboveStars/World building.md",
-    "Vlasi Aminov.md",
-    "SFCP 1-31.jpg",
     "SwordsAboveStars/NPCs/Zircon Kirov.md",
+    "Vlasi Aminov.md",
+    "SwordsAboveStars/World building.md",
+    "Resources/Name Generators.md",
+    "SwordsAboveStars/NPCs/Generating Characters.md",
+    "SwordsAboveStars/NPCs/Character Generation Session 2.md",
+    "SwordsAboveStars/NPCs/Radoslav Efimov.md",
+    "SwordsAboveStars/SAS Plot Notes.md",
+    "SwordsAboveStars/GM Todo.md",
+    "SwordsAboveStars/Locations/Emberg City.md",
+    "Resources/Roll20.md",
+    "SwordsAboveStars/NPCs/Yuan Liú.md",
+    "SwordsAboveStars/NPCs/Jade Sharp.md",
+    "SwordsAboveStars/NPCs/Adriel Coleman.md",
+    "SwordsAboveStars/NPCs/Leighton Thomas.md",
+    "SFCP 1-20.jpg",
+    "SFCP 1-31.jpg",
     "SFCP 1-92.jpg",
     "SFCP 1-100.jpg",
     "SFCP 1-27.jpg",
-    "Resources/Name Generators.md",
-    "SwordsAboveStars/Locations/Emberg City.md",
     "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
-    "Resources/Music List.md",
-    "Resources/Roll20.md",
     "SwordsAboveStars/General questions abt Lancer.md",
-    "SwordsAboveStars/SAS Plot Notes.md",
-    "SwordsAboveStars/GM Todo.md",
     "Ladiza.md",
     "Devora Aminov.md",
     "SwordsAboveStars/World Details.md",
-    "SwordsAboveStars/Swords Above Stars Master Notes.md",
-    "SwordsAboveStars/Player Characters/WASTE.md",
     "Untitled.canvas",
-    "SwordsAboveStars/Locations/Helga.md",
     "SentaiStarlight",
-    "SwordsAboveStars/NPCs/Jeanne Baret Platov.md",
     "SwordsAboveStars/images/Pasted image 20251020185103.png",
     "SwordsAboveStars/Organizations",
     "SwordsAboveStars/Session Notes",

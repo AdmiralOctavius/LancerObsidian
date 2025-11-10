@@ -1,6 +1,6 @@
 
 Character 1:
-Name: Radoslav Efimov, male Russian
+Name: [[Radoslav Efimov]], male Russian
 2 Spades
 6 Clubs : Doctor
 King clubs: Academic
