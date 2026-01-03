@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
+                "file": "Landing Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bumpy Landing - Episode 1"
+              "title": "Landing Page"
             }
           }
         ],
@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,13 +262,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwordsAboveStars/Swords Above Stars Master Notes.md",
+                "file": "Landing Page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Swords Above Stars Master Notes"
+              "title": "Outline of Landing Page"
             }
           },
           {
@@ -306,8 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,6 +326,10 @@
   },
   "active": "eb7c84a0470db5b5",
   "lastOpenFiles": [
+    "SwordsAboveStars/NPCs/Rebellion/Ladiza.md",
+    "SwordsAboveStars/NPCs/Monarchists/Mila Bennett.md",
+    "Landing Page.md",
+    "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
     "SwordsAboveStars/Session List.md",
     "SwordsAboveStars/Swords Above Stars Master Notes.md",
     "SwordsAboveStars/Npcs list.md",
@@ -334,19 +337,15 @@
     "SwordsAboveStars/GM Notes/General questions abt Lancer.md",
     "SwordsAboveStars/GM Notes/Character Generation Session 2.md",
     "SwordsAboveStars/GM Notes/Generating Characters.md",
-    "Landing Page.md",
     "SwordsAboveStars/images/SFCP 1 15.png",
     "SwordsAboveStars/GM Notes",
     "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
     "SwordsAboveStars/Session Notes/A Rolling Rest.md",
-    "SwordsAboveStars/NPCs/Monarchists/Mila Bennett.md",
     "SwordsAboveStars/NPCs/Monarchists/Nikodim Govorov.md",
     "SwordsAboveStars/NPCs/Monarchists/Devora Aminov.md",
     "SwordsAboveStars/Player Characters/WASTE.md",
     "SwordsAboveStars/Locations/Advanced Quantum Laser Research Facility.md",
-    "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
     "SwordsAboveStars/NPCs/Rebellion/Brayden Medina.md",
-    "SwordsAboveStars/NPCs/Rebellion/Ladiza.md",
     "Resources/Music List.md",
     "SwordsAboveStars/Session Notes/Swords Above Stars Session Zero notes.md",
     "SwordsAboveStars/Session Notes/Miles to Go.md",

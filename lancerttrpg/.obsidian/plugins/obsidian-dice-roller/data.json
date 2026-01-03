@@ -5,17 +5,17 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": false,
+  "displayResultsInline": true,
   "displayFormulaAfter": false,
   "escapeDiceMod": true,
   "signed": false,
   "displayLookupRoll": true,
   "formulas": {},
   "defaultRoll": 1,
-  "defaultFace": 100,
+  "defaultFace": 20,
   "renderer": false,
-  "renderAllDice": false,
-  "addToView": false,
+  "renderAllDice": true,
+  "addToView": true,
   "renderTime": 2000,
   "colorfulDice": false,
   "scaler": 1,
@@ -78,11 +78,39 @@
   "version": "11.4.2",
   "viewResults": [
     {
+      "result": "15",
+      "original": "1d20",
+      "resultText": "1d20\n[15]",
+      "timestamp": 1767423746032,
+      "id": "KvKuDc2G3-W7"
+    },
+    {
       "result": "14",
       "original": "1d20",
       "resultText": "1d20\n[14]",
-      "timestamp": 1761274713130,
-      "id": "D7RWXjFogarS"
+      "timestamp": 1767423754968,
+      "id": "Uiy_OLD3I0Qr"
+    },
+    {
+      "result": "6",
+      "original": "1d20kh",
+      "resultText": "1d20kh\n[6]",
+      "timestamp": 1767423761733,
+      "id": "NCfFfD6OPF1T"
+    },
+    {
+      "result": "16",
+      "original": "1d20kh",
+      "resultText": "1d20kh\n[16]",
+      "timestamp": 1767423770199,
+      "id": "K-0iuXhCOvD-"
+    },
+    {
+      "result": "16",
+      "original": "1d20kh + 3",
+      "resultText": "1d20kh + 3\n[13] + 3",
+      "timestamp": 1767423789320,
+      "id": "sV06pTAVWHG9"
     }
   ]
 }
