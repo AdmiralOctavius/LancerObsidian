@@ -1,9 +1,8 @@
 # YYYY-MM-DD Campaign Session Notes
 
-## Characters
+## Player Characters
 
 - 
-
 ## Strong Start
 
 

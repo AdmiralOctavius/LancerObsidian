@@ -7,3 +7,7 @@ female American
 
 Mila and [[Brayden Medina]]:  share a relationship
 Both from religious sects originating from the Ruins
+
+Member of the [[Fires of Glory]] 
+Monarchist Army Member
+![[SFCP 1 64.png]]

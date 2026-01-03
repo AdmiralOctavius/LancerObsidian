@@ -8,4 +8,10 @@ male American
 [[Mila Bennett]] and [[Brayden Medina]]:  share a relationship
 Both from religious sects originating from the Ruins
 
+Part of the [[Waste Watchers]] 
 Current rebellion supply runner, was/is a pilot.
+
+Leader of the rebellion Caravan from session 2.
+
+
+![[SFCP 1 49.png]]

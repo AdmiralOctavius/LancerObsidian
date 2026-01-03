@@ -8,83 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17239825f27cf754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/Session Notes/Miles to Go.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miles to Go"
-            }
-          },
-          {
-            "id": "863410ef842e69a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brayden Medina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brayden Medina"
-            }
-          },
-          {
-            "id": "64ed8386f4412267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mila Bennett.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mila Bennett"
-            }
-          },
-          {
-            "id": "0d70ecd852a894a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nikodim Govorov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nikodim Govorov"
-            }
-          },
-          {
-            "id": "52355e24faad8768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/Session Notes/Miles to Go.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miles to Go"
-            }
-          }
-        ]
-      },
-      {
-        "id": "94009bc9f774be1c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32a46c43a89e0f2a",
+            "id": "0dae432a0f041794",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,75 +22,54 @@
             }
           },
           {
-            "id": "f3101b03e726a8c9",
+            "id": "5ea75b62f1b5f7b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/NPCs/Adriel Coleman.md",
+                "file": "Advanced Quantum Laser Research Facility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adriel Coleman"
+              "title": "Advanced Quantum Laser Research Facility"
             }
           },
           {
-            "id": "2a590c350677e0c4",
+            "id": "0ee6099a8c93f9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/NPCs/Yuan Liú.md",
+                "file": "SwordsAboveStars/Player Characters/WASTE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yuan Liú"
+              "title": "WASTE"
             }
           },
           {
-            "id": "185abe7c87200e24",
+            "id": "eb7c84a0470db5b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwordsAboveStars/NPCs/Radoslav Efimov.md",
+                "file": "SwordsAboveStars/Session Notes/A Rolling Rest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radoslav Efimov"
+              "title": "A Rolling Rest"
             }
-          },
-          {
-            "id": "927c7f3d2addf90e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/NPCs/Zircon Kirov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zircon Kirov"
-            }
-          },
-          {
-            "id": "aed7e017d9fa6db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SwordsAboveStars/NPCs/Leighton Thomas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leighton Thomas"
-            }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "94009bc9f774be1c",
+        "type": "tabs",
+        "children": [
           {
             "id": "a3c42047196264c0",
             "type": "leaf",
@@ -180,9 +83,65 @@
               "icon": "lucide-file",
               "title": "Music List"
             }
+          },
+          {
+            "id": "9404b708f0336fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Rebellion/Brayden Medina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brayden Medina"
+            }
+          },
+          {
+            "id": "f4ae7d2067ff0426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Monarchists/Devora Aminov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devora Aminov"
+            }
+          },
+          {
+            "id": "d9a63b4a0edb9f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Monarchists/Mila Bennett.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mila Bennett"
+            }
+          },
+          {
+            "id": "52355e24faad8768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SwordsAboveStars/NPCs/Rebellion/Ladiza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ladiza"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -366,54 +325,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17239825f27cf754",
+  "active": "eb7c84a0470db5b5",
   "lastOpenFiles": [
-    "Nikodim Govorov.md",
-    "Resources/Music List.md",
-    "SwordsAboveStars/Session Notes/Miles to Go.md",
-    "Mila Bennett.md",
-    "Brayden Medina.md",
+    "SwordsAboveStars/NPCs/Monarchists/Mila Bennett.md",
+    "SwordsAboveStars/NPCs/Monarchists/Nikodim Govorov.md",
+    "SwordsAboveStars/Session Notes/A Rolling Rest.md",
+    "SwordsAboveStars/NPCs/Monarchists/Devora Aminov.md",
+    "SwordsAboveStars/Player Characters/WASTE.md",
+    "Advanced Quantum Laser Research Facility.md",
     "SwordsAboveStars/Session Notes/Bumpy Landing - Episode 1.md",
-    "SwordsAboveStars/NPCs/Zircon Kirov.md",
-    "Vlasi Aminov.md",
-    "SwordsAboveStars/World building.md",
-    "Resources/Name Generators.md",
-    "SwordsAboveStars/NPCs/Generating Characters.md",
-    "SwordsAboveStars/NPCs/Character Generation Session 2.md",
-    "SwordsAboveStars/NPCs/Radoslav Efimov.md",
-    "SwordsAboveStars/SAS Plot Notes.md",
-    "SwordsAboveStars/GM Todo.md",
-    "SwordsAboveStars/Locations/Emberg City.md",
-    "Resources/Roll20.md",
-    "SwordsAboveStars/NPCs/Yuan Liú.md",
-    "SwordsAboveStars/NPCs/Jade Sharp.md",
-    "SwordsAboveStars/NPCs/Adriel Coleman.md",
-    "SwordsAboveStars/NPCs/Leighton Thomas.md",
-    "SFCP 1-20.jpg",
-    "SFCP 1-31.jpg",
-    "SFCP 1-92.jpg",
-    "SFCP 1-100.jpg",
-    "SFCP 1-27.jpg",
     "SwordsAboveStars/Organizations/Inconnu Mercenary Company.md",
-    "SwordsAboveStars/General questions abt Lancer.md",
-    "Ladiza.md",
-    "Devora Aminov.md",
-    "SwordsAboveStars/World Details.md",
+    "SwordsAboveStars/NPCs/Rebellion/Brayden Medina.md",
+    "SwordsAboveStars/NPCs/Rebellion/Ladiza.md",
+    "Resources/Music List.md",
+    "SwordsAboveStars/Session Notes/Swords Above Stars Session Zero notes.md",
+    "SwordsAboveStars/Session Notes/Miles to Go.md",
+    "SFCP 1 15.png",
+    "SFCP 1 49.png",
+    "SFCP 1 64.png",
+    "SFCP 1 38.png",
+    "SwordsAboveStars/NPCs/Monarchists/Vlasi Aminov.md",
+    "Combat Design.md",
+    "Balancing Combat.md",
+    "SwordsAboveStars/NPCs/IMC/Zircon Kirov.md",
+    "SwordsAboveStars/NPCs/Rebellion/Yuan Liú.md",
+    "SwordsAboveStars/NPCs/Rebellion/Radoslav Efimov.md",
+    "SwordsAboveStars/NPCs/IMC/Leighton Thomas.md",
+    "SwordsAboveStars/NPCs/IMC/Jeanne Baret Platov.md",
+    "SwordsAboveStars/NPCs/IMC",
+    "SwordsAboveStars/NPCs/UNION/Adriel Coleman.md",
+    "SwordsAboveStars/NPCs/Generating Characters.md",
+    "SwordsAboveStars/NPCs/UNION",
+    "SwordsAboveStars/NPCs/Rebellion/Jade Sharp.md",
+    "SwordsAboveStars/NPCs/Rebellion",
+    "SwordsAboveStars/NPCs/Monarchists",
+    "Waste Watchers.md",
+    "SwordsAboveStars/images/SFCP 1-20.jpg",
+    "SwordsAboveStars/images/SFCP 1-92.jpg",
+    "SwordsAboveStars/images/SFCP 1-27.jpg",
+    "SwordsAboveStars/images/水.jpg",
+    "SwordsAboveStars/images/wp5317061.jpg",
+    "SwordsAboveStars/images/wp5317058-957471326.jpg",
+    "orgTemplates/Lazy GM Campaign Template/Lazy GM templates.md",
     "Untitled.canvas",
     "SentaiStarlight",
-    "SwordsAboveStars/images/Pasted image 20251020185103.png",
     "SwordsAboveStars/Organizations",
     "SwordsAboveStars/Session Notes",
     "SwordsAboveStars/Locations",
     "SwordsAboveStars/Player Characters",
-    "SwordsAboveStars/NPCs",
-    "SwordsAboveStars/images/3537226616.gif",
-    "SwordsAboveStars/images/nico-hintelmann-211028-00100.jpg",
-    "SwordsAboveStars/images/adrian-mihai-marchidan-coastal-city-2922.jpg",
-    "SwordsAboveStars/images/wp5317058-957471326.jpg",
-    "SwordsAboveStars/images",
-    "SentaiStarlight/Locations/elisEtaSector.pdf",
-    "SwordsAboveStars",
-    "Resources"
+    "SwordsAboveStars/NPCs"
   ]
 }
