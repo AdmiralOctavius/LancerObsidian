@@ -7,7 +7,7 @@ Ran by Captain Leighton Thomas.
 
 Small scale mercenary company, finally fielding a qualified Lancer team for bigger contracts after the retirement of Leighton.
 
-Currently in a bind due to an ongoing blood debt with the Polaris Mercenary Company, who destroyed the IMC-Grimmwood’s Longclaw.
+Currently in a bind due to an ongoing blood debt/feud with the Polaris Mercenary Company, who destroyed the IMC-Grimmwood’s Longclaw.
 
 Crew
 
