@@ -12,3 +12,4 @@ Queen spades - immortal, nhp, will continue to live on through the data it colle
 Has fostered a relationship with [[Nadiya Kurpinsky]] during their deployment here.
 #Rebellion 
 Role: Base commander.
+![[SFCP 1 26.png]]

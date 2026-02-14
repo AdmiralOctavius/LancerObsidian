@@ -4,7 +4,7 @@
 
 - [[Lancelot]]
 - [[Scope]]
-- [[WASTE]]
+- [[TYRANT]]
 
 
 
@@ -46,4 +46,4 @@
 - [[Lancelot]] has bright green eyes, messy blonde hair (Riza from FMA)
 - Team acquires information on where the [[Advanced Quantum Laser Research Facility|AQLRF]]  is NOT for next session
 
-[[WASTE]] is the team captain
+[[TYRANT]] is the team captain

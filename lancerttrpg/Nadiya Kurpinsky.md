@@ -9,3 +9,4 @@ Has fostered a relationship with [[Andromeda]] during their deployment here.
 #Rebellion
 
 Role: The main supply quarter master
+![[SFCP 1 14.png]]

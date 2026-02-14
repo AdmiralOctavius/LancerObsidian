@@ -1,6 +1,6 @@
 
 
-Our story here on the planet of [[Helga]] specifically, revolves around the members of the [[Inconnu Mercenary Company]]. [[WASTE]], [[Lancelot]], and [[Scope]].
+Our story here on the planet of [[Helga]] specifically, revolves around the members of the [[Inconnu Mercenary Company]]. [[TYRANT]], [[Lancelot]], and [[Scope]].
 
 Some 70-80 years ago realspace time, [[Vlasi Aminov]] and [[Devora Aminov]] were born in the [[crater-wastes]] of the northern continent. The crater-wastes is a massive bowl/valley of territory, spanning nearly a hundred kilometers and having a depth of nearly 10km. Partially irradiated, the [[crater-wastes]] are a no-mans land of biological?? monsters and tech of ages past. buried in the rock, goo, and woods are some of the remnants of [[Helga]]'s first megacity, now a decimated ruin beneath the earth.
 

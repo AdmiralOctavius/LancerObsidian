@@ -2,7 +2,7 @@
 
 ## Player Characters
 
-- [[WASTE]]
+- [[TYRANT]]
 - [[Scope]]
 - [[Lancelot]]
 ## Strong Start

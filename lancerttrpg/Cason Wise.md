@@ -8,3 +8,4 @@ Cason is responsible for [[Andromeda]]'s maintenance and care
 #Rebellion 
 
 Role: Machine bay maintainer/Head physical tech.
+![[SFCP 1 12.png]]

@@ -1,4 +1,4 @@
 - [[Lancelot]]
 - [[Scope]]
-- [[WASTE]]
+- [[TYRANT]]
   

@@ -2,7 +2,7 @@
 
 ## Characters
 
-- [[WASTE]]
+- [[TYRANT]]
 - [[Lancelot]]
 - [[Scope]]
 

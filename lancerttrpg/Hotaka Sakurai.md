@@ -10,3 +10,4 @@ Shares sharpshooting skills with [[Eden Duncan]]
 #Rebellion 
 
 Role: Head of security
+![[SFCP 1 22.png]]

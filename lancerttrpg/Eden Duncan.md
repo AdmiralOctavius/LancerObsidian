@@ -18,3 +18,4 @@ Shares sharpshooting skills with [[Hotaka Sakurai]]
 Role: Head of the science team. 
 
 Extremely dedicated to the research at hand, unable to let go of the possibility of a breakthru.
+![[SFCP 1 70.png]]
